@@ -506,6 +506,9 @@ class Advancedeucompliance extends Module
             'order-opc',
             'category',
             'products-comparison',
+            'new-products',
+            'best-sales',
+            'prices-drop',
 
         );
 
